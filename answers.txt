@@ -10,4 +10,4 @@
   To isolate the changes made in other branches/or by different individuals contributing to the project.
  
 • In a project how many remote Git repositories do you usually have?
-  We can have only one repositary and can create multiple branches.
+  We can have only one repositary and can create multiple test branches.
